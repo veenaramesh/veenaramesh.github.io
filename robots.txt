@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://veenaramesh.github.io/blog//sitemap.xml
+Sitemap: https://veenaramesh.github.io/sitemap.xml

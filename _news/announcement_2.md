@@ -1,32 +1,16 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: started working at Lovelytics
+date: 2022-04-04 16:11:00-0400
 inline: false
 related_posts: false
 ---
-
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
+<a href="https://lovelytics.com/">Lovelytics is a boutique data consulting firm</a> headquartered in Arlington, Virginia (Washington D.C. metro area). As of September 2023, we are a team of less than 70 people, most of us engineers. 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+#### Accomplishments
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li><a href="https://lovelytics.com/blog/databricks-ventures-and-interlock-equity-invest-in-the-future-with-lovelytics/"> In June 2023, Databricks Ventures and Interlock Equity invested in Lovelytics. </a></li>
+    <li><a href="https://www.databricks.com/blog/announcing-this-years-winners-global-partner-awards#:~:text=Together%2C%20Accenture%20and%20Avanade%20receive,for%20the%20third%20consecutive%20year.">At Data and AI summit 2022, Databricks named us Innovation Partner of the Year</a></li>
+    <li><a href="https://www.databricks.com/blog/2022/06/27/databricks-2022-global-partner-awards.html">At Data and AI summit 2023, Databricks named us CME Partner of the Year</a></li>
 </ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.

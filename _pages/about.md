@@ -6,7 +6,7 @@ subtitle: computer scientist, video game enthusiast, painter, reader.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lovelytics_port_0063.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>washington, d.c.</p>

@@ -2,27 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Veena Ramesh
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th January, 1999
     - name: Languages
-      value: English, German
+      value: English, Tamil, Russian
 
 - title: Education
   type: time_table
   contents:
-    - title: ba in computer science, cognitive science (linguistics)
+    - title: BA in Computer Science, Linguistics
       institution: University of Virginia, Charlottesville
       year: 2021
       description:
-        - natural language processing, language models
-        - statisical modeling
+        - Important Coursework | Natural Language Processing, Information Retrieval,  Statistical Modeling
+        - Base Coursework | Linear Algebra, Probability, Data Structures + Algorithms
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: sr. machine learning engineer
+    - title: Sr. Machine Learning Engineer
       institution: Lovelytics Data (formerly Lovelytics)
       year: 2021 - present
       description:
@@ -30,29 +30,11 @@
         - huggingface transformers, pytorch, scikit 
         - AWS Redshift, AWS Lambda, AWS Glue
 
-    - title: data scientist
+    - title: Data Scientist
       institution: Itek Infomatic
       year: 1933
       description:
-        - mySQL, scikit-learn
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - mySQL, scikit-learn, pytorch
 
 - title: Academic Interests
   type: nested_list

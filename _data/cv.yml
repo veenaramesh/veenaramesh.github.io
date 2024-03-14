@@ -2,21 +2,19 @@
   type: map
   contents:
     - name: Full Name
-      value: Veena Ramesh
+      value: 
     - name: Date of Birth
-      value: 15th January, 1999
+      value: 
     - name: Languages
       value: English, Tamil, Russian
 
 - title: Education
   type: time_table
   contents:
-    - title: BA in Computer Science, Linguistics
-      institution: University of Virginia, Charlottesville
+    - title: 
+      institution: 
       year: 2021
       description:
-        - Important Coursework | Natural Language Processing, Information Retrieval,  Statistical Modeling
-        - Base Coursework | Linear Algebra, Probability, Data Structures + Algorithms
 
 
 - title: Experience

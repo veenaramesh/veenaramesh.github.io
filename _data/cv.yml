@@ -1,52 +1,28 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: 
-    - name: Date of Birth
-      value: 
     - name: Languages
       value: English, Tamil, Russian
 
 - title: Education
   type: time_table
   contents:
-    - title: 
-      institution: 
+    - title:
+      institution:  University of Virginia
       year: 2021
-      description:
+      description: Computer Science (B.A.)
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Sr. Machine Learning Engineer
+    - title: Sr. Machine Learning Engineer (Level 3)
       institution: Lovelytics Data (formerly Lovelytics)
       year: 2021 - present
       description:
-        - Apache Spark (python, scala), Databricks, and mlflow 
-        - huggingface transformers, pytorch, scikit 
-        - AWS Redshift, AWS Lambda, AWS Glue
 
-    - title: Data Scientist (former Intern)
+    - title: Data Scientist
       institution: Itek Infomatic
       year: 2019 - 2021
       description:
-        - mySQL, scikit-learn, pytorch
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Language
-      items: 
-        - natural language processing and language modeling (multimodal models especially)
-        - information retrieval, search engines
-    - title: Gaming Development
-      items:
-        - character decision making and storylines based on user actions, personalization
-        - reinforcement learning to solve complex games
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> video games, movies, painting, writing
+  

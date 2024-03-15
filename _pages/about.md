@@ -21,5 +21,7 @@ I am Veena, computer scientist and amateur everything else.
 
 I am currently a Sr. Machine Learning Engineer at Lovelytics Data, a boutique tech consulting firm. Before that, I graduated from University of Virginia, where I studied Computer Science + Linguistics. 
 
-I have a lot of opinions about a lot of things, and I like to write about them (enjoy the blog). My contact information is linked below. Disclaimer: Opinions expressed are solely my own.
+I have a lot of opinions about a lot of things, and I like to write about them. 
+
+Disclaimer: Opinions expressed are solely my own.
 

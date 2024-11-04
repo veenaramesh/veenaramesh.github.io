@@ -17,11 +17,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Veena, computer scientist and amateur everything else. 
+I am Veena, a computer scientist and amateur everything else. 
 
-I am currently a Sr. Machine Learning Engineer at Lovelytics Data, a boutique tech consulting firm. Before that, I graduated from University of Virginia, where I studied Computer Science + Linguistics. 
+I am currently a professional debugger (aka a GenAI and MLOps Specialist Solutions Architect) at Databricks. We are working on several GenAI solutions-- and actually attempting to make them productionizable. Previously, I was at Lovelytics Data, where I worked directly with clients to shape their ML vision. 
+
+I graduated from the University of Virginia in Computer Science and Linguistics. 
 
 I have a lot of opinions about a lot of things, and I like to write about them. 
 
-Disclaimer: Opinions expressed are solely my own.
+Disclaimer: Opinions expressed are solely my own. !!cccccbktb
 

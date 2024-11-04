@@ -10,15 +10,20 @@
     - title:
       institution:  University of Virginia
       year: 2021
-      description: Computer Science (B.A.)
+      description: Computer Science
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Sr. Machine Learning Engineer (Level 3)
+    - title: Generative AI +  ML Specialist (Sr. Specialist Solutions Engineer)
+      institution: Databricks
+      year: 2023 - present
+      description:
+
+    - title: Sr. Machine Learning Engineer
       institution: Lovelytics Data (formerly Lovelytics)
-      year: 2021 - present
+      year: 2021 - 2023
       description:
 
     - title: Data Scientist

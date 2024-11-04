@@ -6,3 +6,6 @@ github_repos:
   - databrickslabs/migrate
   - lovelytics/migrate
   - YannickJadoul/Parselmouth
+  - langchain-ai/langchain-databricks
+
+  
